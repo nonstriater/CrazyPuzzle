@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>question</key>
+		<string>1</string>
+		<key>answer</key>
+		<string>锦上添花</string>
+		<key>explain</key>
+		<string></string>
+		<key>originOfIdioms</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>6</string>
+		<key>answer</key>
+		<string>满载而归</string>
+		<key>explain</key>
+		<string></string>
+		<key>originOfIdioms</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>28</string>
+		<key>answer</key>
+		<string>画龙点睛</string>
+		<key>explain</key>
+		<string></string>
+		<key>originOfIdioms</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>29</string>
+		<key>answer</key>
+		<string>对牛弹琴</string>
+		<key>explain</key>
+		<string></string>
+		<key>originOfIdioms</key>
+		<string></string>
+	</dict>
+</array>
+</plist>

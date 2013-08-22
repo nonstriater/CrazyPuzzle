@@ -1,0 +1,11 @@
+//
+// Prefix header for all source files of the 'CrazyPuzzzle' target in the 'CrazyPuzzzle' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+    #import "Define.h"
+    #import "AudioSoundHelper.h"
+    #import "UIImageAdditions.h"
+#endif
